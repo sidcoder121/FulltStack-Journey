@@ -2,3 +2,10 @@ h2{
     color:yellow;
     background-color: darkred;
 }
+
+p{
+    text-align: center;
+    font-weight:700;
+    text-decoration:underline;
+    
+}

@@ -7,5 +7,9 @@ p{
     text-align: center;
     font-weight:700;
     text-decoration:underline;
-    
+}
+
+h3{
+    line-height: 5;
+    letter-spacing:10px;
 }

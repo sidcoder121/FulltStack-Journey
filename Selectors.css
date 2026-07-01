@@ -3,7 +3,7 @@
 }
 
 h3{
-    color:purple;
+    color:#b92b27;
 }
 
 h1{
@@ -26,4 +26,17 @@ h1{
 
 .post a{
     color:purple;
+}
+
+p+h3{
+    text-decoration:underline;
+}
+
+.upvote + button{
+    background-color:cornflowerblue;
+    color:darkblue;
+}
+
+div>input{
+    background-color:lightblue;
 }

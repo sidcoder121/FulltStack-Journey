@@ -53,3 +53,8 @@ button:hover {
     background-color:black;
     color:white;
 }
+
+button:active {
+    background-color:rgb(165, 76, 91);
+    color:rgb(200, 200, 224);
+}

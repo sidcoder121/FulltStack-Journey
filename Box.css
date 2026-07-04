@@ -1,4 +1,12 @@
 div{
     height:200px;
     width:500px;
+    background-color: crimson;
+    border-style:solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+h1{
+    border:2px solid gray;
 }

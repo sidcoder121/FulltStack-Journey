@@ -12,7 +12,7 @@ body{
 }
 
 #main{
-    height:200px;
+    height:220px;
     width:100px;
     border:2px solid black;
     margin: 50px 50px;
@@ -20,7 +20,7 @@ body{
 }
 
 .main2{
-    height:180px;
+    height:200px;
     width:80px;
     border:2px solid black;
     

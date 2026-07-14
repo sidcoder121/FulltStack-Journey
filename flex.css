@@ -6,6 +6,8 @@
     border:2px solid black;
     display:flex;
     flex-direction:column;
+    flex-wrap:wrap; 
+    justify-content:space-evenly;
 }
 
 h1{
